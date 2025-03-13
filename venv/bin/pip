@@ -1,4 +1,4 @@
-#!/home/krishnan/Projects/Python/ollamaapi/venv/bin/python3
+#!/Users/krishnansriram/Projects/Python/FastAPI/ollama/ollamasamples/venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys

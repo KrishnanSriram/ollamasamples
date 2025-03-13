@@ -13,6 +13,7 @@ def main():
     model="cricketllm",
     prompt="How to get a batsman out LBW?"
   )
+  ollama.delete('cricketllm')
 
 
   print(response["response"])

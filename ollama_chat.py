@@ -1,7 +1,7 @@
 import ollama
 
 def main():
-  stream = True
+  stream = False
   response = ollama.chat(
     model="llama3.2",
     messages=[{"role": "user", "content": "Why is cricket famous in India?"}],
